@@ -1,1 +1,3 @@
 packages/
+StringCalculator/obj/
+StringCalculator/bin/Debug/nunit.framework.xml
